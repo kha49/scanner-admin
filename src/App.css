@@ -1,0 +1,18 @@
+.App {
+  padding: 24px;
+}
+
+.table {
+  padding: 24px 0;
+}
+
+.key-item {
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  margin-bottom: 24px;
+}
+
+.private-key {
+  margin-bottom: 16px;
+}
