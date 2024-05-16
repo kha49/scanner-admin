@@ -84,7 +84,6 @@ function App() {
                 <div className='private-key'>
                   <b>PrivateKey:</b> {item.walletIds.privateKey}
                 </div>
-                <Button onClick={navigator.clipboard.writeText(item.walletIds.mnemonic.split('|').join(' '))} type="primary">Copy Mnemonic</Button>
               </div>
             )
           })
